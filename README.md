@@ -132,7 +132,7 @@ Java Version : 1.8
 
 ## ERD 다이어그램
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc0ce286-c929-4ba3-abb7-4a866fe187c8/Untitled.png)
+![image](https://user-images.githubusercontent.com/96896754/231498463-d60871f1-c4c1-48d2-829a-ab11fa183de7.png)
 
 ## 요구사항 명세서
 
