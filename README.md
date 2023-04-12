@@ -18,25 +18,25 @@
 
 로그인 화면
 
-![최초.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00116370-54f4-4f91-9b5b-e83a50fff33a/%EC%B5%9C%EC%B4%88.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231500425-b785fba6-d5fe-4197-a265-b8cdf4908b52.png)
 
 홈 화면
 
-![메인0.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bd4a25f-ffdd-48d3-9e6d-fd927e23830d/%EB%A9%94%EC%9D%B80.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231500345-34aecf94-0106-48d2-9287-301ddb7fb289.png)
 
-![펫스탯.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b3badfb-3bdb-4554-ace0-366d81f5a263/%ED%8E%AB%EC%8A%A4%ED%83%AF.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231500288-c3eef014-279d-40a4-8cd8-f3180ea2e00f.png)
 
-![메인.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/281137ed-2f81-4db5-b306-6388c33c742c/%EB%A9%94%EC%9D%B8.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231500231-f1473d2f-3b1e-488e-9762-7fe1b2f668bc.png)
 
 TODO 화면
 
-![투두노체크.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91690052-3721-47f1-ba32-563525576081/%ED%88%AC%EB%91%90%EB%85%B8%EC%B2%B4%ED%81%AC.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231500121-2a318ab8-d495-48b6-801a-67775ce8a059.png)
 
-![투두.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eda0cbc8-b8f0-45b4-bfc9-9d4832b16f49/%ED%88%AC%EB%91%90.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231500053-6127047c-c086-4427-9d7d-2a31a84421e6.png)
 
 QUEST 화면
 
-![퀘스트.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0dd5eb93-4c97-43a9-8284-fef448e2cf72/%ED%80%98%EC%8A%A4%ED%8A%B8.jpg)
+![image](https://user-images.githubusercontent.com/96896754/231499982-7259f1b3-beab-4b80-8379-555c46ae5161.png)
 
 MY 화면
 
