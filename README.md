@@ -23,9 +23,7 @@
 홈 화면
 
 ![image](https://user-images.githubusercontent.com/96896754/231500345-34aecf94-0106-48d2-9287-301ddb7fb289.png)
-
 ![image](https://user-images.githubusercontent.com/96896754/231500288-c3eef014-279d-40a4-8cd8-f3180ea2e00f.png)
-
 ![image](https://user-images.githubusercontent.com/96896754/231500231-f1473d2f-3b1e-488e-9762-7fe1b2f668bc.png)
 
 TODO 화면
