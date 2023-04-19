@@ -18,80 +18,72 @@
 
 로그인 화면
 
-![image](https://user-images.githubusercontent.com/96896754/231500425-b785fba6-d5fe-4197-a265-b8cdf4908b52.png)
+<img title="" src="https://user-images.githubusercontent.com/96896754/231500425-b785fba6-d5fe-4197-a265-b8cdf4908b52.png" alt="image" width="263">
 
 홈 화면
 
-![image](https://user-images.githubusercontent.com/96896754/231500345-34aecf94-0106-48d2-9287-301ddb7fb289.png)
-![image](https://user-images.githubusercontent.com/96896754/231500288-c3eef014-279d-40a4-8cd8-f3180ea2e00f.png)
-![image](https://user-images.githubusercontent.com/96896754/231500231-f1473d2f-3b1e-488e-9762-7fe1b2f668bc.png)
+<img src="https://user-images.githubusercontent.com/96896754/231500345-34aecf94-0106-48d2-9287-301ddb7fb289.png" title="" alt="image" width="263">
+<img src="https://user-images.githubusercontent.com/96896754/231500288-c3eef014-279d-40a4-8cd8-f3180ea2e00f.png" title="" alt="image" width="263">
+<img src="https://user-images.githubusercontent.com/96896754/231500231-f1473d2f-3b1e-488e-9762-7fe1b2f668bc.png" title="" alt="image" width="263">
 
 TODO 화면
 
-![image](https://user-images.githubusercontent.com/96896754/231500121-2a318ab8-d495-48b6-801a-67775ce8a059.png)
+<img src="https://user-images.githubusercontent.com/96896754/231500121-2a318ab8-d495-48b6-801a-67775ce8a059.png" title="" alt="image" width="264">
 
-![image](https://user-images.githubusercontent.com/96896754/231500053-6127047c-c086-4427-9d7d-2a31a84421e6.png)
+<img src="https://user-images.githubusercontent.com/96896754/231500053-6127047c-c086-4427-9d7d-2a31a84421e6.png" title="" alt="image" width="262">
 
 QUEST 화면
 
-![image](https://user-images.githubusercontent.com/96896754/231499982-7259f1b3-beab-4b80-8379-555c46ae5161.png)
+<img title="" src="https://user-images.githubusercontent.com/96896754/231499982-7259f1b3-beab-4b80-8379-555c46ae5161.png" alt="image" width="263">
 
-MY 화면
+
 
 ### Mobile Descriptino
 
 > 서비스 전체 기능
-> 
 
 ---
 
 # Web 화면
 
 > 로그인 / 회원가입
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231499584-7c7ccf31-2d1b-4d9d-a820-69c55ec0f5c1.png)
 
 ![image](https://user-images.githubusercontent.com/96896754/231499514-011d581d-1e87-4ecd-a81c-a0b71aaab2f5.png)
 
 > 닉네임 / 햄스터 이름 설정
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231499328-38f8a5e8-04d6-484a-9840-d7e7303c456d.png)
 
 ![image](https://user-images.githubusercontent.com/96896754/231499263-8ba295af-253a-4526-84a7-82da844a5a8f.png)
 
 > Todo
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231499168-c02e78b4-b8a9-4b8f-86ec-963a30e908a5.png)
 
 > Guild
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231499047-5a2920e8-e0e8-4a28-8862-4318d667967e.png)
 
 > Quest
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231498969-ac0c3cc3-14ef-4d62-97be-cc89a147defa.png)
 
 > Shop
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231498888-ab21844a-81d0-42c2-9517-7821044d548f.png)
 
 ![image](https://user-images.githubusercontent.com/96896754/231498811-f195e465-6a98-4916-9f70-bb7eb925a5cf.png)
 
 > 스탯창
-> 
 
 ![image](https://user-images.githubusercontent.com/96896754/231498716-9c1a3697-8db4-4812-a378-b7dbc1d12e31.png)
 
 ### Web Description
 
 > 서비스 전체 기능
-> 
+
 - 캐릭터 진화 기능 - 스탯을 찍게 되면 캐릭터의 외향이 변한다. 이때 스탯 가중치에 따라 모습이 바뀐다.
 - 캐릭터 졸업 기능 - 캐릭터가 졸업을 하게 되면 My page에서 해당 캐릭터를 볼 수 있게 된다.
 - 퀘스트 기능(모바일) - 학교/회사 늦지 않기, 5000보 걷기와 같은 현실 요소가 반영된 퀘스트를 수행할 수 있게 하는 기능
@@ -121,10 +113,11 @@ Java Version : 1.8
 - Web
 
 - Back-End
-    - 사용한 JVM : Open JDK11
-    - 웹서버 : Nginx
-    - WAS 제품 : Tomcat
-    - IDE 버전 : IntelliJ IDEA 2022.3.1 (Ultimate Edition)
+  
+  - 사용한 JVM : Open JDK11
+  - 웹서버 : Nginx
+  - WAS 제품 : Tomcat
+  - IDE 버전 : IntelliJ IDEA 2022.3.1 (Ultimate Edition)
 
 ## 전체 시스템 구조
 
@@ -187,57 +180,50 @@ Java Version : 1.8
 # Team Member
 
 > Android Part
-> 
 
 ## 팀원 - AOS
 
 **김지훈**
 
 - 역할
-    
+  
     퀘스트 로직 설계
-    
+  
     진화 로직 설계
-    
+  
     회원정보 로직 설계
-    
 
 **고청천**
 
 - 역할
-    
+  
     로그인 기능 구현
-    
+  
     Todo 로직 설계
-    
+  
     졸업 로직 설계
-    
 
 > Front-End Part
-> 
 
 ## 팀원 - WEB FE
 
 **이종길**
 
 - 역할
-    
+  
     Todo 로직 설계
-    
+  
     Quest 로직 설계
-    
 
 **이진성**
 
 - 역할
-    
+  
     Guild 회원 관리
-    
+  
     Shop 로직 설계
-    
 
 > Back-End Part
-> 
 
 ## 팀원 - BE
 
